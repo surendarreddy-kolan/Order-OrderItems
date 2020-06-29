@@ -12,7 +12,7 @@
 	<artifactId>service-discovery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>service-discovery</name>
-	<description>DBS Task - Service discovery</description>
+	<description>DBS - Service discovery</description>
 
 	<properties>
 		<java.version>1.8</java.version>
